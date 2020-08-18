@@ -2,10 +2,12 @@
 
 1. How to run:
 npm install
+
 node index.js
 
 2. Register route:
 POST http://localhost:8080/api/registerRoute
+
 
 Body (sample) :
 {
